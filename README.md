@@ -1,4 +1,4 @@
-Study Routine:
+# Study Routine:
 
 |   Day    |         Time         |              Subject                |
 |----------|----------------------|-------------------------------------|
@@ -11,7 +11,7 @@ Study Routine:
 | Friday   | Self-study           | Formal Languages & Compilers Lab (CSE 4130) |
 | Saturday | Self-study           | Industrial Management (IPE 4111) |
 
-#EXAM ROUTINE:
+# EXAM ROUTINE:
 
 | Date     | SUB     |
 |----------|---------|
